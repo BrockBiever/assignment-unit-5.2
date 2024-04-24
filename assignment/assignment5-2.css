@@ -1,0 +1,16 @@
+header{
+    background-color: grey ;
+color: lightskyblue;
+text-align: center;
+}
+main{
+    background-color: pink;
+    padding: 1em;
+    text-align: center;
+    
+}
+body{
+    background-image: url(https://miro.medium.com/v2/resize:fit:952/1*fpgvaFnX1cYA0VBs6Cz1Lg.gif);
+background-repeat: repeat;
+margin: 0px;
+}
